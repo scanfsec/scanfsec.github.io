@@ -1,0 +1,41 @@
+# Site settings
+title: 浮云朝露 - scanf's Blog
+email: scanf@scanfsec.com
+description: > # this means to ignore newlines until "baseurl:"
+  scanf的小站
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://scanfsec.com # the base hostname & protocol for your site
+rss_url: /feed.xml
+author: Scanf
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
+
+# Social account
+twitter: scanfsec
+github: scanfsec
+
+avatar: https://nu1l-ctf.com/members/scanf.jpg
+favicon: https://nu1l-ctf.com/members/scanf.jpg
+
+# disqus config
+disqus:
+  shortname: scanfsec
+
+# Build settings
+permalink: /:title.html
+markdown: kramdown
+highlighter: rouge
+mathjax: disabled
+sass:
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
