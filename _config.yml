@@ -4,7 +4,7 @@ email: scanf@scanfsec.com
 description: > # this means to ignore newlines until "baseurl:"
   scanf的小站
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://scanfsec.com # the base hostname & protocol for your site
+url: https://www.scanfsec.com # the base hostname & protocol for your site
 rss_url: /feed.xml
 author: Scanf
 
