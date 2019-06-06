@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iscc2016 web writeup
+title: iscc2016 misc writeup
 category: writeup
 tags: ctf
 description:
